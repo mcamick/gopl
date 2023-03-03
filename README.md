@@ -9,7 +9,11 @@ go run {file name}
 ```
 \
 Compiles code, links libraries, then saves the program without running
-``` go
+```go
 go build {file name}
 ```
-
+\
+Provides formatting options and reviews code for potential errors. The [gofmt](https://pkg.go.dev/cmd/gofmt) docs provide additional details on usage and flags.
+```go
+gofmt [flags] [path ...]
+```
