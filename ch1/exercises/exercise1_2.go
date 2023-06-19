@@ -1,4 +1,4 @@
-// Echo1 prints its command-line arguments.
+// Program prints its command-line arguments.
 // Exercise 1.2 asks that we modify the program to print the index and value of each of the command line arguements it has
 package main
 
