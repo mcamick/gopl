@@ -4,6 +4,8 @@ for loop that iterates over the arguments presented in echo 1
 */
 package main
 
-func main() {
+import "testing"
+
+func benchmarkExercises(b *testing.B) {
 
 }
