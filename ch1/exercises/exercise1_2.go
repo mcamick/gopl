@@ -1,5 +1,5 @@
 // Program prints its command-line arguments.
-// Exercise 1.2 asks that we modify the program to print the index and value of each of the command line arguements it has
+// Exercise 1.2 asks that we modify the program to print the index and value of each of the command line arguments it has
 package main
 
 import (
@@ -7,7 +7,7 @@ import (
 	"os"
 )
 
-func exercise1() {
+func main() {
 	var s, sep string
 	for i := 1; i < len(os.Args); i++ {
 		s += sep + os.Args[i]
