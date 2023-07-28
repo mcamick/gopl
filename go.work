@@ -4,6 +4,7 @@ use (
 	./ch1/exercises/exercise1_1
 	./ch1/exercises/exercise1_2
 	./ch1/exercises/join
+	./ch1/exercises/exercise1_4
 	./non_book_code/go_test/math
 	./non_book_code/gotut/greetings
 	./non_book_code/gotut/hello
