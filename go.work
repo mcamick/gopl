@@ -1,0 +1,11 @@
+go 1.20
+
+use (
+	./ch1/exercises/exercise1_1
+	./ch1/exercises/exercise1_2
+	./ch1/exercises/join
+	./non_book_code/go_test/math
+	./non_book_code/gotut/greetings
+	./non_book_code/gotut/hello
+	./non_book_code/hello
+)
