@@ -1,4 +1,5 @@
 // Modify dup2 to print the names of all files in which each duplicated line occurs.
+// Used command  "go run exercise1_4.go example1.txt example2.txt example3.txt" to invoke and run against three files
 
 package main
 
